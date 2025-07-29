@@ -25,7 +25,7 @@ body {
   font-weight: 600;
   font-style: normal;
 
-	.ヘッダー：WORKS {
+	.ヘッダー: WORKS {
 		text-decoration: none;
 		position: fixed;
 		top: 40px;
@@ -33,40 +33,40 @@ body {
 		z-index: 3;
 		transition: 0.25s; 
 	}
-	.ヘッダー：WORKS:hover {
+	.ヘッダー:WORKS:hover {
 	  color: #c9171e;
   }
 	
-	& .ヘッダー：ABOUT {
+	& .ヘッダー:ABOUT {
 		position: fixed;
 		top: 40px;
 		right: 177px;
 		z-index: 3;
 		transition: 0.25s; 
 	}
-	.ヘッダー：ABOUT:hover {
+	.ヘッダー:ABOUT:hover {
 	  color: #c9171e;
   }
 	
-	& .ヘッダー：STORE {
+	& .ヘッダー:STORE {
 		position: fixed;
 		top: 40px;
 		right: 190px;
 		z-index: 3;
 		transition: 0.25s; 
 	}
-	.ヘッダー：STORE:hover {
+	.ヘッダー:STORE:hover {
 	  color: #c9171e;
   }
 	
-	& .ヘッダー：CONTACT {
+	& .ヘッダー:CONTACT {
 		position: fixed;
 		top: 40px;
 		right: 70px;
 		z-index: 3;
 		transition: 0.25s;  
 	}
-	.ヘッダー：CONTACT:hover {
+	.ヘッダー:CONTACT:hover {
 	  color: #c9171e;
   }
 
